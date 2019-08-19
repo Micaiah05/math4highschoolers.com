@@ -1,0 +1,177 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 300px;
+    border: 70px solid green;
+    padding: 30px;
+    width: 85%;
+    margin: auto;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+#profile{
+    padding-top: 30px;
+    font-size: 50px;
+    text-decoration: underline;
+    color: darkslategrey;
+    padding-bottom: 15px;
+}
+
+#title{
+    text-align: center;
+    font-size: 80px;
+    padding: 30px;
+    text-decoration: underline;
+    color: darkmagenta
+}
+
+
+.nav_item{
+    display: inline;
+    background-color: yellowgreen;
+    color: darkgreen;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    font-size: 35px;
+}
+
+.nav_item:hover{
+    background-color: cornflowerblue;
+}
+
+#description{
+    padding: 30px;
+}
+
+.interest{
+    padding: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#ShowMoreOrLess{
+    font-size: 25px;
+    text-decoration: underline;
+    padding: 15px;
+}
+
+#ShowMoreOrLess2{
+    font-size: 25px;
+    text-decoration: underline;
+    padding: 15px;
+}
+
+#ShowMoreOrLess3{
+    font-size: 25px;
+    text-decoration: underline;
+    padding: 15px;
+}
+
+#ShowMoreOrLess4{
+    font-size: 25px;
+    text-decoration: underline;
+    padding: 15px;
+}
+
+#ShowMoreOrLess5{
+    font-size: 25px;
+    text-decoration: underline;
+    padding: 15px;
+}
+
+#extra1{
+    color: red;
+}
+
+#extra2{
+    color: red;
+}
+
+#extra3{
+    color: red;
+}
+
+#extra4{
+    color: red;
+}
+
+#extra5{
+    color: red;
+}
+
+#ShowMoreOrLess:hover{
+    color: green
+}
+
+#ShowMoreOrLess2:hover{
+    color: green
+}
+
+#ShowMoreOrLess3:hover{
+    color: green
+}
+
+#ShowMoreOrLess4:hover{
+    color: green
+}
+ 
+#ShowMoreOrLess5:hover{
+    color: green
+}
+
+.links:hover{
+    color: darkgreen;
+}
+
+.cat{
+    border: 3px dotted darkblue;
+    padding: 30px;
+    border-radius: 100px;
+    font-weight: normal;
+}
+
+.cat:hover{
+    background-color: lightgreen;
+}
+
+.CatTitle{
+    font-size: 35px; 
+    text-decoration: underline;
+    padding: 20px;
+    
+}
+
+.CatTitle:hover{
+    color: blue;
+}
+
+#SampleProblems{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    color: darkslategrey;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#bottom{
+    display: inline;
+    
+}
+
+.inner{
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.inner:hover{
+    color: blue;
+}
+
+#contact{
+    padding: 25px;
+}
